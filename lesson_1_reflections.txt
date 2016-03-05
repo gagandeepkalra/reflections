@@ -17,6 +17,3 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 -for every project of mine from now onwards.
-
-What happens when you initialize a repository? Why do you need to do it?
--it becomes a git repository and we can now use all of those git features.
