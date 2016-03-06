@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+-remote repository will be required when there are multiple contributors to the repository. Also it gives flexibility to the user to make changes and introduce further commits even when he doesnt have access t his local system.
